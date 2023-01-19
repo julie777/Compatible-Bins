@@ -8,11 +8,11 @@ Provide 3D printable models for bins (insert boxes) that are compatible with var
 # Supported Systems
 
 The following systems are supported and have models available to download.
-	- Harbor Freight
-	- Stanley
-	- Sortimo/Bosch L-Boxx, I-Boxx, T-Boxx
-	- Tanos/Festool
-	- Raaco
+- Harbor Freight
+- Stanley
+- Sortimo/Bosch L-Boxx, I-Boxx, T-Boxx
+- Tanos/Festool
+- Raaco
 
 If there are other systems you would like added please create an issue [providing dimensions] and a reference link.
 
