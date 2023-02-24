@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Julie Jones",
+	"description":	{
+		"":	"This is for the Compatible Bin project to generate and save all sizes of all systems."
+	},
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}

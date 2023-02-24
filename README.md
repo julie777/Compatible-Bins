@@ -3,16 +3,17 @@
 
 # Project Goal
 
-Provide 3D printable models for bins (insert boxes) that are compatible with various storage/organizer systems on the market. This allow printing replacements for lost or damaged bins and the ability to printer different sized bins to optimize storage. (For example: replacing a large bin with multiple smaller ones.)
+Provide 3D printable models for bins (insert boxes) that are compatible with various storage/organizer systems on the market. This allow printing replacements for lost or damaged bins and the ability to print different sized bins to optimize storage. (For example: replacing a large bin with multiple smaller ones.)
 
 # Supported Systems
 
 The following systems are supported and have models available to download.
 - Harbor Freight
 - Stanley
-- Sortimo/Bosch L-Boxx, I-Boxx, T-Boxx
-- Tanos/Festool
-- Raaco
+- Sortimo (Bosch) I-Boxx, T-Boxx, L-Boxx
+- Tanos (Festool) Systainer - not yet added
+- Raaco   - not yet added
+Details for each system are in a README in that sub-directory.
 
 If there are other systems you would like added please create an issue [providing dimensions] and a reference link.
 
@@ -25,4 +26,12 @@ The Fusion 360 Model is provided to allow customization, creating odd sized bins
 # Wiki
 
 Please look on the [wiki](https://github.com/julie777/Compatible-Bins/wiki) for more details about everything in this project.
+
+# Updates
+2025-01-23  The design has been updated significantly. The changes produce much stronger bins and shorter print times.
+            After much testing for strength of larger bins, the base corners have been redesigned to be stronger. 
+            The print settings have also been optimized for printing bins. 
+            The wall thickness is variable based on the size of the bin. (Larger bins have thicker walls.)
+
+
 

@@ -1,0 +1,8 @@
+To Do
+-----
+
+- finish script to generate printable models
+- find a way to update thangs project via script
+- add model configuration for Tanos and Racco bins
+- Complete wiki documentation
+
